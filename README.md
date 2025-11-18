@@ -120,8 +120,7 @@ View the last 10 lines.
 
 ---
 
-## 📸 Screenshot Example
-![File operations](../screenshots/file-ops-1.png)
+
 
 # 2. Directory Operations
 
@@ -152,8 +151,7 @@ Search for a directory by name.
 
 ---
 
-## 📸 Screenshot Example
-![Directory operations](../screenshots/dir-ops.png)
+
 
 # 3. Process Operations
 
@@ -214,8 +212,7 @@ Redirect stderr.
 
 ---
 
-## 📸 Screenshot Example
-![Process operations](../screenshots/process-ops.png)
+
 
 # 4. File Permissions
 
@@ -262,6 +259,5 @@ Change both owner and group.
 
 ---
 
-## 📸 Screenshot Example
-![File permissions](../screenshots/permissions.png)
+
 
